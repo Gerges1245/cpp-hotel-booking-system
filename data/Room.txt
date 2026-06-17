@@ -1,0 +1,5 @@
+roomId,type,price,status,features
+1,single,100,booked,TV
+2,double,150,available,TV
+4,single,100,booked,TV
+5,double,150,available,TV
