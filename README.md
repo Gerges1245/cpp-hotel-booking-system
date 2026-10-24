@@ -57,3 +57,7 @@ hotel.exe
 ## 🎓 Course
 
 University Data Structures & OOP Course — C++ Project
+
+## 👥 Contributors
+   - Gerges ([@Gerges1245](https://github.com/Gerges1245))
+   - Mohamed Bahaa ([@MB1382005](https://github.com/MB1382005))
